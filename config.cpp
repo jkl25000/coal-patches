@@ -165,6 +165,12 @@ class CfgUnitInsignia {
 		author = "jkl25";
 		texture = "\coal_patches\patches\hat.paa";
 	};
+	class SAM
+	{
+		displayName = "[CMF] SAM";
+		author = "jkl25";
+		texture = "\coal_patches\patches\sam.paa";
+	};
 	class MTR
 	{
 		displayName = "[CMF] Mortar";
